@@ -55,6 +55,7 @@ ThemeData getApplicationTheme() {
       displayLarge: getRegularStyle(color: ColorManager.darkPurple,fontSize: AppSize.s20),
       displaySmall: getSemiBoldStyle(color: ColorManager.darkPurple,fontSize: AppSize.s24),
       bodySmall: getRegularStyle(color: ColorManager.hintGrey,fontSize: AppSize.s12),
+      overline: getRegularStyle(color: ColorManager.hintGrey,fontSize: AppSize.s12),
       bodyLarge: getSemiBoldStyle(color:ColorManager.white,fontSize: AppSize.s14 ),
       titleMedium: getMediumStyle(color: ColorManager.darkPurple,fontSize: AppSize.s14, decoration: TextDecoration.none),
     ),
