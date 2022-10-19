@@ -35,7 +35,7 @@ class LoginBloc extends Bloc<LoginEvent, LoginState> {
       case ServerFailure:
         return 'Please try again later';
       case OfLineFailure:
-        return 'Please Check your Internet Connection';
+        return 'Please Check your Internet Connection......';
       default:
         return 'Unexpected Error ,Please try again later';
     }

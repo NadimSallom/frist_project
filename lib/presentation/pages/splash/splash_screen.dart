@@ -35,6 +35,7 @@ class _SplashScreenState extends State<SplashScreen> {
       backgroundColor: ColorManager.darkPurple,
       body:
           const Center(child: Image(image: AssetImage(ImageAssets.splashLogo))),
+       /////
     );
   }
 
