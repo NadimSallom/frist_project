@@ -25,6 +25,7 @@ class AppSize{
   static const double s26 = 26.0;
   static const double s28 = 28.0;
   static const double s29 = 29.0;
+  static const double s30 = 30.0;
 
 }
 class AppWightSize{
